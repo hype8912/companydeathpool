@@ -13,11 +13,11 @@ Rules for playing the Company Death Pool game are similar to those of Celebrity 
   1. The winner with the most points on January 1st of the following year will win the pool.
   
 ## Points
-* Points are awarded based on 50% of the number of years a company was in business. For example if the company was in business for 30 years you would be awarded 15 points. Any company under 2 years old is awarded 1 point.
+* Points are awarded based on 50% of the number of years a company was in business. For example if the company was in business for 30 years you would be awarded 15 points. Any company in business under 2 years is awarded 1 point.
 
 ### Bonus Points
-* 25 points if the company doesn't notify anyone and immediately closes the doors out of business.
-* 25 points if the company is listed on the Fortune 100 list the previous year. 10 points if the company was on the Fortune 500 list the previous year. You can't double dip and get 35 points if it's a Fortune 100 company. Max you can receive here is 25 points per company.
+* 25 points if the company doesn't notify anyone and immediately closes the doors out of business. For example the workers leave for the day and show up to work the next morning to find the company is closed and going out of business.
+* 25 points if the company is listed on the Fortune 100 list the previous year. 10 points if the company is listed on the Fortune 500 list the previous year. You can't double dip and get 35 points if it's a Fortune 100 company. Max you can receive here is 25 points per company.
 * 25 points if the company announces or goes out of business on your birthday.
 * "First blood" 10 points to the first person with the first correct answer of the year.
 
