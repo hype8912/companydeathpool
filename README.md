@@ -1,4 +1,4 @@
-# Company Dead Pool
+# Company Death Pool
 Rules for playing the Company Death Pool game are similar to those of Celebrity Death Pool.
 
 ## Rules
