@@ -19,9 +19,9 @@ Rules for playing the Company Death Pool game are similar to those of Celebrity 
 * 25 points if the company doesn't notify anyone and immediately closes the doors out of business.
 * 25 points if the company is listed on the Fortune 100 list the previous year. 10 points if the company was on the Fortune 500 list the previous year. You can't double dip and get 35 points if it's a Fortune 100 company. Max you can receive here is 25 points per company.
 * 25 points if the company announces or goes out of business on your birthday.
-* "First blood" 10 points to the 1st person with the first correct answer of the year.
+* "First blood" 10 points to the first person with the first correct answer of the year.
 
 ## Payout
-* 2nd place recieve their pool money back
+* 2nd place recieves their pool money back
 * 1st place recieves the remaining amount
 
