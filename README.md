@@ -8,7 +8,7 @@ Rules for playing the Company Death Pool game are similar to those of Celebrity 
   1. The company cannot already be under a bankruptcy restructuring.
   1. Every person gets 10 picks.
   1. All picks must be made and shared by January 15th of the current year. If a company on your list files for bankruptcy or closes completely before you publish your list then it cannot be used and you must pick another company.
-  1. You can't be anyway associated with the companies you pick or have the ability to use insider knowledge.
+  1. You can't be in anyway associated with the companies you pick or have the ability to use insider knowledge.
   1. Parent company collapse: If the parent company goes under then you are awarded the points for the parent company as normal and then 5 points for each sub company that goes under with it.
   1. The winner with the most points on January 1st of the following year will win the pool.
   
